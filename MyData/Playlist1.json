@@ -1,0 +1,4268 @@
+{
+  "playlists": [
+    {
+      "name": "Podcast à écouter",
+      "lastModifiedDate": "2020-07-16",
+      "items": [
+        {
+          "track": null,
+          "episode": {
+            "episodeName": "Musculation au naturel avec Rudy Coia",
+            "showName": "Sport Santé Nutrition Podcast"
+          },
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Favoris des radios",
+      "lastModifiedDate": "2020-04-03",
+      "items": [
+        {
+          "track": {
+            "trackName": "Pierre, feuille, papier, ciseaux",
+            "artistName": "Columbine",
+            "albumName": "Pierre, feuille, papier, ciseaux"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "BO",
+      "lastModifiedDate": "2020-02-20",
+      "items": [
+        {
+          "track": {
+            "trackName": "Interstellar- Main Theme",
+            "artistName": "Geek Music",
+            "albumName": "Interstellar- Main Theme"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Inception: Time - Orchestra Version - Live",
+            "artistName": "Hans Zimmer",
+            "albumName": "Inception: Time - Orchestra Version"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Kiss",
+            "artistName": "Trevor Jones",
+            "albumName": "Last of the Mohicans (Original Motion Picture Soundtrack)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tessa",
+            "artistName": "Steve Jablonsky",
+            "albumName": "Transformers: Age of Extinction (Music from the Motion Picture) - EP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Arrival to Earth",
+            "artistName": "Steve Jablonsky",
+            "albumName": "Transformers: The Score"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "For The Love Of A Princess",
+            "artistName": "James Horner",
+            "albumName": "Braveheart - Original Motion Picture Soundtrack"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Warriors",
+            "artistName": "League of Legends",
+            "albumName": "Warriors"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Optimus",
+            "artistName": "Steve Jablonsky",
+            "albumName": "Transformers: The Score"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Breaking of the Fellowship (feat. \"In Dreams\")",
+            "artistName": "Howard Shore",
+            "albumName": "The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Elysium",
+            "artistName": "Lisa Gerrard",
+            "albumName": "The Best of Lisa Gerrard"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Now We Are Free - From \"Gladiator\" Soundtrack",
+            "artistName": "Lisa Gerrard",
+            "albumName": "Gladiator - Music From The Motion Picture"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Semi",
+      "lastModifiedDate": "2019-03-01",
+      "items": [
+        {
+          "track": {
+            "trackName": "Born To Be Yours",
+            "artistName": "Kygo",
+            "albumName": "Born To Be Yours"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Let You Down",
+            "artistName": "NF",
+            "albumName": "Perception"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Pitbull",
+            "artistName": "Booba",
+            "albumName": "Ouest Side"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Paris c'est loin",
+            "artistName": "Damso",
+            "albumName": "Paris c'est loin"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Malade",
+            "artistName": "Roméo Elvis",
+            "albumName": "Malade"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tu ne le vois pas (feat. Dadju)",
+            "artistName": "Maître Gims",
+            "albumName": "Ceinture noire"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Speechless (feat. Erika Sirola)",
+            "artistName": "Robin Schulz",
+            "albumName": "Speechless (feat. Erika Sirola)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Silence",
+            "artistName": "Marshmello",
+            "albumName": "Silence"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Α. Nwaar Is The New Black",
+            "artistName": "Damso",
+            "albumName": "Ipséité"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "B. #QuedusaalVie",
+            "artistName": "Damso",
+            "albumName": "Ipséité"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Γ. Mosaïque solitaire",
+            "artistName": "Damso",
+            "albumName": "Ipséité"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Δ. Dieu ne ment jamais",
+            "artistName": "Damso",
+            "albumName": "Ipséité"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ε. Signaler",
+            "artistName": "Damso",
+            "albumName": "Ipséité"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ζ. Kietu",
+            "artistName": "Damso",
+            "albumName": "Ipséité"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Η. Gova",
+            "artistName": "Damso",
+            "albumName": "Ipséité"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Θ. Macarena",
+            "artistName": "Damso",
+            "albumName": "Ipséité"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ι. Peur d'être père",
+            "artistName": "Damso",
+            "albumName": "Ipséité"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Κ. Kin la belle",
+            "artistName": "Damso",
+            "albumName": "Ipséité"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Λ. Lové",
+            "artistName": "Damso",
+            "albumName": "Ipséité"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Μ. Noob Saibot",
+            "artistName": "Damso",
+            "albumName": "Ipséité"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "N. J Respect R",
+            "artistName": "Damso",
+            "albumName": "Ipséité"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ξ. Une âme pour deux",
+            "artistName": "Damso",
+            "albumName": "Ipséité"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Introduction (Damso / Lithopédion)",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Festival de rêves",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Baltringue",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Julien",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Silence",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Feu de bois",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Même issue",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Smog",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "60 années",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Aux paradis",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dix leurres",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "NMI",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Perplexe",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tard la night",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Noir meilleur",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "William",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ipséité - Bonus Track",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Reine",
+            "artistName": "Dadju",
+            "albumName": "Gentleman 2.0"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Demain - Bigflo & Oli X Petit Biscuit",
+            "artistName": "Bigflo & Oli",
+            "albumName": "La vie de rêve"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Born To Be Yours – Kygo",
+      "lastModifiedDate": "2019-03-01",
+      "items": [
+        {
+          "track": {
+            "trackName": "Born To Be Yours",
+            "artistName": "Kygo",
+            "albumName": "Born To Be Yours"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Mes titres Shazam",
+      "lastModifiedDate": "2020-04-07",
+      "items": [
+        {
+          "track": {
+            "trackName": "Alone In The Dark",
+            "artistName": "Will Cookson",
+            "albumName": "About Love"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Galway Girl",
+            "artistName": "Ed Sheeran",
+            "albumName": "÷"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "OK",
+            "artistName": "Robin Schulz",
+            "albumName": "OK"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tu m'as volé",
+            "artistName": "Lefa",
+            "albumName": "Monsieur Fall"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Boyz N The Hood",
+            "artistName": "Kaaris",
+            "albumName": "Okou Gnakouri"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Yeux disent",
+            "artistName": "Lomepal",
+            "albumName": "Yeux disent"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "All Stars",
+            "artistName": "Martin Solveig",
+            "albumName": "All Stars"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Your Love (feat. Tom Bailey)",
+            "artistName": "Boris Way",
+            "albumName": "Your Love (feat. Tom Bailey)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Night We Met",
+            "artistName": "Lord Huron",
+            "albumName": "Strange Trails"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Night We Met",
+            "artistName": "Lord Huron",
+            "albumName": "Strange Trails"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Suis-moi",
+            "artistName": "Alonzo",
+            "albumName": "100 %"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Soulstorm",
+            "artistName": "Patrice",
+            "albumName": "Nile"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Karma",
+            "artistName": "Naâman",
+            "albumName": "Rays of Resistance"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Silence",
+            "artistName": "Marshmello",
+            "albumName": "Silence"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Forever",
+            "artistName": "Martin Garrix",
+            "albumName": "Forever"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Passenger",
+            "artistName": "Iggy Pop",
+            "albumName": "Nude & Rude: The Best Of Iggy"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Big City Life",
+            "artistName": "Mattafix",
+            "albumName": "Signs Of A Struggle"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Drôle de question",
+            "artistName": "Roméo Elvis",
+            "albumName": "Morale 2"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Rasta Love",
+            "artistName": "Protoje",
+            "albumName": "Rasta Love"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Drôle de question",
+            "artistName": "Roméo Elvis",
+            "albumName": "Morale 2"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Rattraper le temps",
+            "artistName": "KeBlack",
+            "albumName": "Rattraper le temps"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Roll Up",
+            "artistName": "Wiz Khalifa",
+            "albumName": "Roll Up"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mirror",
+            "artistName": "Lil Wayne",
+            "albumName": "Tha Carter IV"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Perfect",
+            "artistName": "Ed Sheeran",
+            "albumName": "÷"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Nothin' on You (feat. Bruno Mars)",
+            "artistName": "B.o.B",
+            "albumName": "B.o.B Presents: The Adventures of Bobby Ray"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Pjanoo - Radio Edit",
+            "artistName": "Eric Prydz",
+            "albumName": "Pjanoo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "FourFiveSeconds",
+            "artistName": "Rihanna",
+            "albumName": "FourFiveSeconds"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Without You (feat. Usher) - Radio Edit",
+            "artistName": "David Guetta",
+            "albumName": "Without You (feat. Usher)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Marilyn & John - Version Anglaise",
+            "artistName": "Vanessa Paradis",
+            "albumName": "M & J"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Could You Be Loved - 12\" Mix",
+            "artistName": "Bob Marley & The Wailers",
+            "albumName": "Uprising"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "J'souris",
+            "artistName": "Djadja & Dinaz",
+            "albumName": "J'souris"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Crazy",
+            "artistName": "Lost Frequencies",
+            "albumName": "Crazy"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Audio",
+            "artistName": "Sia",
+            "albumName": "Audio"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hold the Line",
+            "artistName": "TOTO",
+            "albumName": "Toto"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hold the Line",
+            "artistName": "TOTO",
+            "albumName": "Toto"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mandela Day",
+            "artistName": "Simple Minds",
+            "albumName": "Themes - Volume 4"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Be Right Here",
+            "artistName": "Kungs",
+            "albumName": "Be Right Here"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Broken Strings",
+            "artistName": "James Morrison",
+            "albumName": "Songs For You, Truths For Me"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Losing My Religion",
+            "artistName": "R.E.M.",
+            "albumName": "Out Of Time"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Little lion man",
+            "artistName": "Made famous by Mumford & Sons",
+            "albumName": "Little lion man"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Little lion man",
+            "artistName": "Made famous by Mumford & Sons",
+            "albumName": "Little lion man"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Wind Of Change",
+            "artistName": "Scorpions",
+            "albumName": "Crazy World"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Cosmic Storm",
+            "artistName": "A Himitsu",
+            "albumName": "Cosmic Storm"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Endless",
+            "artistName": "The Rival",
+            "albumName": "Endless"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Just Between Us",
+            "artistName": "DJ Garffi3",
+            "albumName": "Just Between Us"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "(Everything I Do) I Do It For You",
+            "artistName": "Robert John \"Mutt\" Lange",
+            "albumName": "50 Summer Concert Classics: History of the Cinema Classics, played by the Royal Philharmonic Orchestra London"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Kingston Town",
+            "artistName": "UB40",
+            "albumName": "Labour Of Love II"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hotel California - 2013 Remaster",
+            "artistName": "Eagles",
+            "albumName": "Hotel California"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Superhero",
+            "artistName": "Unknown Brain",
+            "albumName": "Superhero"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Voulez-vous",
+            "artistName": "Leonie",
+            "albumName": "Voulez-vous"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "L'Homme nouveau",
+            "artistName": "Jérémy Frerot",
+            "albumName": "L'Homme nouveau"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Endless",
+            "artistName": "The Rival",
+            "albumName": "Endless"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "run",
+      "lastModifiedDate": "2019-09-23",
+      "items": [
+        {
+          "track": {
+            "trackName": "I See Fire",
+            "artistName": "Ed Sheeran",
+            "albumName": "x"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Rappelle-la",
+            "artistName": "Lefa",
+            "albumName": "Monsieur Fall"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Wake Me up When September Ends",
+            "artistName": "Green Day",
+            "albumName": "American Idiot"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Maman j’ai mal",
+            "artistName": "MHD",
+            "albumName": "MHD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "J'arrive pas - Acte IV",
+            "artistName": "Lartiste",
+            "albumName": "Maestro"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Let Me Love You",
+            "artistName": "DJ Snake",
+            "albumName": "Encore"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Celle qu'il te faut (feat. Glory)",
+            "artistName": "Keen' V",
+            "albumName": "Là où le vent me mène"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tchikita",
+            "artistName": "Jul",
+            "albumName": "Tchikita"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Whole Heart",
+            "artistName": "Gryffin",
+            "albumName": "Whole Heart"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Andale (feat. Gradur)",
+            "artistName": "Sadek",
+            "albumName": "Nique le casino"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "DKR",
+            "artistName": "Booba",
+            "albumName": "DKR"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Validée",
+            "artistName": "Booba",
+            "albumName": "Nero nemesis"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Don't You Worry Child - Radio Edit",
+            "artistName": "Swedish House Mafia",
+            "albumName": "Don't You Worry Child"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Amour parano - Acte III",
+            "artistName": "Lartiste",
+            "albumName": "Maestro"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Closer",
+            "artistName": "The Chainsmokers",
+            "albumName": "Closer"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Save The World",
+            "artistName": "Swedish House Mafia",
+            "albumName": "Save The World"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Aujourd'hui",
+            "artistName": "Bigflo & Oli",
+            "albumName": "La cour des grands"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Alone",
+            "artistName": "Marshmello",
+            "albumName": "Alone"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Stay A While (Radio Edit)",
+            "artistName": "Dimitri Vegas & Like Mike",
+            "albumName": "Stay A While - SINGLE"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lean On (feat. MØ & DJ Snake)",
+            "artistName": "Major Lazer",
+            "albumName": "Lean On (feat. MØ & DJ Snake)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ur on My Mind",
+            "artistName": "DVBBS",
+            "albumName": "Ur on My Mind"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Body Talk - Radio Edit",
+            "artistName": "Dimitri Vegas & Like Mike",
+            "albumName": "Body Talk (feat. Julian Perretta)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "A Sky Full of Stars - Hardwell Remix",
+            "artistName": "Coldplay",
+            "albumName": "A Sky Full of Stars"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lions in the Wild",
+            "artistName": "Martin Garrix",
+            "albumName": "Lions in the Wild"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Into The Fire",
+            "artistName": "VINAI",
+            "albumName": "Into The Fire"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Back 2 U (feat. WALK THE MOON)",
+            "artistName": "Steve Aoki",
+            "albumName": "Back 2 U (feat. WALK THE MOON)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Nights",
+            "artistName": "Avicii",
+            "albumName": "The Days / Nights"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hey Baby",
+            "artistName": "Dimitri Vegas & Like Mike",
+            "albumName": "Hey Baby"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "If I Lose Myself - Alesso vs OneRepublic",
+            "artistName": "OneRepublic",
+            "albumName": "Native"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Soleil",
+            "artistName": "Lartiste",
+            "albumName": "Soleil"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Boulevard of Broken Dreams",
+            "artistName": "Green Day",
+            "albumName": "Boulevard of Broken Dreams"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ride",
+            "artistName": "Twenty One Pilots",
+            "albumName": "Blurryface"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Faded",
+            "artistName": "Alan Walker",
+            "albumName": "Faded"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Red Lights",
+            "artistName": "Tiësto",
+            "albumName": "A Town Called Paradise"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bang Bang",
+            "artistName": "Lartiste",
+            "albumName": "Fenomeno"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Just A Dream - Main",
+            "artistName": "Nelly",
+            "albumName": "5.0 Deluxe"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Titanium (feat. Sia)",
+            "artistName": "David Guetta",
+            "albumName": "Nothing but the Beat"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "La terre, je la dévore",
+            "artistName": "Georgio",
+            "albumName": "Héra"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Clandestina",
+            "artistName": "Lartiste",
+            "albumName": "Clandestina"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "All We Know (feat. Phoebe Ryan)",
+            "artistName": "The Chainsmokers",
+            "albumName": "All We Know (feat. Phoebe Ryan)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Say You Won't Let Go",
+            "artistName": "James Arthur",
+            "albumName": "Back from the Edge"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ferme les yeux et imagine (feat.Blacko)",
+            "artistName": "Soprano",
+            "albumName": "Puisqu'il faut vivre"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Porto Rico",
+            "artistName": "RIDSA",
+            "albumName": "Porto Rico - Single"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Intro",
+            "artistName": "The xx",
+            "albumName": "xx"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Je suis un salaud",
+            "artistName": "Nessbeal",
+            "albumName": "Sélection naturelle"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Inaya",
+            "artistName": "Psy 4 De La Rime",
+            "albumName": "Les Cités D'Or"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Numb",
+            "artistName": "Linkin Park",
+            "albumName": "Meteora"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "In the End",
+            "artistName": "Linkin Park",
+            "albumName": "Hybrid Theory"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hey Brother",
+            "artistName": "Avicii",
+            "albumName": "True"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "J'me tire",
+            "artistName": "Maître Gims",
+            "albumName": "Subliminal (La face cachée)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Inside the Lines (feat. Casso)",
+            "artistName": "Mike Perry",
+            "albumName": "Inside the Lines (feat. Casso)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Secrets (feat. Vassy) - Radio Edit",
+            "artistName": "Tiësto",
+            "albumName": "Secrets (feat. Vassy)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bazardée",
+            "artistName": "KeBlack",
+            "albumName": "Bazardée"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Millionaire (feat. Nelly)",
+            "artistName": "Digital Farm Animals",
+            "albumName": "Millionaire (feat. Nelly)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "J'ai pas les loves",
+            "artistName": "Sexion D'Assaut",
+            "albumName": "L'école des points vitaux"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "J'reste debout",
+            "artistName": "Sexion D'Assaut",
+            "albumName": "L'Apogée"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dreamin'",
+            "artistName": "Youssoupha",
+            "albumName": "Noir D****"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "This Is What It Feels Like",
+            "artistName": "Armin van Buuren",
+            "albumName": "Intense"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Iridescent",
+            "artistName": "Linkin Park",
+            "albumName": "A Thousand Suns"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "A LIGHT THAT NEVER COMES - Vicetone Remix",
+            "artistName": "Linkin Park",
+            "albumName": "A LIGHT THAT NEVER COMES REMIX"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bambina",
+            "artistName": "PNL",
+            "albumName": "Dans la légende"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Elle était",
+            "artistName": "Gradur",
+            "albumName": "ShegueyVara 2"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Poussière",
+            "artistName": "Kaaris",
+            "albumName": "Okou Gnakouri"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Afro Trap Pt. 7 (La puissance)",
+            "artistName": "MHD",
+            "albumName": "Afro Trap Part. 7 (La puissance)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "La Fouine vs Laouni",
+            "artistName": "La Fouine",
+            "albumName": "Nouveau monde"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Heroes (we could be)",
+            "artistName": "Alesso",
+            "albumName": "Heroes (we could be)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tchoin",
+            "artistName": "Kaaris",
+            "albumName": "Okou Gnakouri"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Madness (feat. Lil Jon) - Original Mix",
+            "artistName": "Dimitri Vegas & Like Mike",
+            "albumName": "Madness [feat. Lil Jon]"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ocarina",
+            "artistName": "Dimitri Vegas & Like Mike",
+            "albumName": "Ocarina"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Higher Place - Radio Edit",
+            "artistName": "Dimitri Vegas & Like Mike",
+            "albumName": "Higher Place (Radio Edit)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Paris",
+            "artistName": "The Chainsmokers",
+            "albumName": "Paris"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Just Hold On",
+            "artistName": "Steve Aoki",
+            "albumName": "Just Hold On"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Onizuka",
+            "artistName": "PNL",
+            "albumName": "Dans la légende"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Pochon bleu",
+            "artistName": "Naps",
+            "albumName": "Pochon bleu"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Chocolat (feat. Awa Imani)",
+            "artistName": "Lartiste",
+            "albumName": "Clandestino"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Infréquentables",
+            "artistName": "Dosseh",
+            "albumName": "Yuri"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Trop de flow",
+            "artistName": "Lartiste",
+            "albumName": "Fenomeno"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Comme tu veux",
+            "artistName": "DTF",
+            "albumName": "La hass avant le bonheur"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Poto",
+            "artistName": "Bash",
+            "albumName": "Summer Time, Vol. 2"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Feel Alone",
+            "artistName": "Boostee",
+            "albumName": "Pop Corn - EP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Laisse-moi oublier",
+            "artistName": "Gradur",
+            "albumName": "ShegueyVara 2"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "We Own The Night",
+            "artistName": "The Wanted",
+            "albumName": "Word Of Mouth"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mad World - Bomb A Drop - Mix Cut",
+            "artistName": "Hardwell",
+            "albumName": "Hardwell presents Revealed Vol. 7"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mad World",
+            "artistName": "Hardwell",
+            "albumName": "Mad World (feat. Jake Reese)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Just the Way You Are",
+            "artistName": "Bruno Mars",
+            "albumName": "Doo-Wops & Hooligans"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Something Just Like This",
+            "artistName": "The Chainsmokers",
+            "albumName": "Something Just Like This"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Scared to Be Lonely",
+            "artistName": "Martin Garrix",
+            "albumName": "Scared to Be Lonely"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tout ce qu'il faut (feat. Gradur, Alonzo & Abou Debeing)",
+            "artistName": "Black M",
+            "albumName": "Éternel insatisfait"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Grande armée",
+            "artistName": "Lacrim",
+            "albumName": "Grande armée"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sunset Lover",
+            "artistName": "Petit Biscuit",
+            "albumName": "Sunset Lover"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mask Off",
+            "artistName": "Future",
+            "albumName": "FUTURE"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Rêve d'avoir des rêves",
+            "artistName": "Nekfeu",
+            "albumName": "Feu"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Princesse",
+            "artistName": "Nekfeu",
+            "albumName": "Feu"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Egérie",
+            "artistName": "Nekfeu",
+            "albumName": "Feu"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "It Ain't Me (with Selena Gomez)",
+            "artistName": "Kygo",
+            "albumName": "It Ain't Me (with Selena Gomez)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Despacito (Featuring Daddy Yankee)",
+            "artistName": "Luis Fonsi",
+            "albumName": "Despacito (Featuring Daddy Yankee)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "C'est la même",
+            "artistName": "Djadja & Dinaz",
+            "albumName": "Dans l'arène"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Honest",
+            "artistName": "The Chainsmokers",
+            "albumName": "Memories...Do Not Open"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Pas une autre",
+            "artistName": "Deen Burbigo",
+            "albumName": "Grand cru"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Etre humain",
+            "artistName": "Nekfeu",
+            "albumName": "Feu"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Collabo",
+            "artistName": "P-Square",
+            "albumName": "Double Trouble"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tombé sur elle (feat. Dadju)",
+            "artistName": "Abou Debeing",
+            "albumName": "Debeinguerie"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Something Just Like This - R3hab Remix",
+            "artistName": "The Chainsmokers",
+            "albumName": "Something Just Like This (Remix Pack)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Something Just Like This - Dimitri Vegas & Like Mike Remix",
+            "artistName": "The Chainsmokers",
+            "albumName": "Something Just Like This (Remix Pack)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "With Or Without You - Remastered",
+            "artistName": "U2",
+            "albumName": "The Joshua Tree"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ε. Signaler",
+            "artistName": "Damso",
+            "albumName": "Ipséité"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Θ. Macarena",
+            "artistName": "Damso",
+            "albumName": "Ipséité"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Reine",
+            "artistName": "Dadju",
+            "albumName": "Reine"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ζ. Kietu",
+            "artistName": "Damso",
+            "albumName": "Ipséité"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "B. #QuedusaalVie",
+            "artistName": "Damso",
+            "albumName": "Ipséité"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Nova",
+            "artistName": "Ahrix",
+            "albumName": "Nova"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I'm the One",
+            "artistName": "DJ Khaled",
+            "albumName": "I'm the One"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Infinity - Radio Edit",
+            "artistName": "Sound Of Legend",
+            "albumName": "Infinity"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "2U (feat. Justin Bieber)",
+            "artistName": "David Guetta",
+            "albumName": "2U (feat. Justin Bieber)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Auto-Dance",
+            "artistName": "Disiz La Peste",
+            "albumName": "Pacifique"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ça va aller - Secret RMX",
+            "artistName": "Disiz La Peste",
+            "albumName": "Pacifique"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bravo",
+            "artistName": "MHD",
+            "albumName": "Bravo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Maestro",
+            "artistName": "Lartiste",
+            "albumName": "Maestro"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "ADN",
+            "artistName": "Disiz La Peste",
+            "albumName": "Pacifique"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mama",
+            "artistName": "Jonas Blue",
+            "albumName": "Mama"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "OK",
+            "artistName": "Robin Schulz",
+            "albumName": "OK"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Pourquoi chérie",
+            "artistName": "BMYE",
+            "albumName": "Pourquoi chérie"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "More Than You Know",
+            "artistName": "Axwell /\\ Ingrosso",
+            "albumName": "More Than You Know"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "On My Way",
+            "artistName": "Axwell /\\ Ingrosso",
+            "albumName": "On My Way"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Something New",
+            "artistName": "Axwell /\\ Ingrosso",
+            "albumName": "Something New"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Thunder",
+            "artistName": "Imagine Dragons",
+            "albumName": "Evolve"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mamacita",
+            "artistName": "Ninho",
+            "albumName": "Mamacita"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Again and Again - Radio Edit",
+            "artistName": "Basto",
+            "albumName": "Crazy Beach"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tu m'as volé",
+            "artistName": "Lefa",
+            "albumName": "Monsieur Fall"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hallelujah",
+            "artistName": "Jeff Buckley",
+            "albumName": "Grace (Legacy Edition)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Frérot (feat. Soprano)",
+            "artistName": "Black M",
+            "albumName": "Éternel insatisfait"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Je suis un menteur",
+            "artistName": "MZ",
+            "albumName": "Affaire de famille"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Symphony (feat. Zara Larsson)",
+            "artistName": "Clean Bandit",
+            "albumName": "Symphony (feat. Zara Larsson)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Toi sur moi",
+            "artistName": "MZ",
+            "albumName": "La dictature"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mobali",
+            "artistName": "Siboy",
+            "albumName": "Special"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Λ. Lové",
+            "artistName": "Damso",
+            "albumName": "Ipséité"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Gravitation",
+            "artistName": "Petit Biscuit",
+            "albumName": "Gravitation"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Without You (feat. Sandro Cavazza)",
+            "artistName": "Avicii",
+            "albumName": "AVĪCI"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bad Boy (feat. Aya Nakamura)",
+            "artistName": "Fally Ipupa",
+            "albumName": "Bad Boy (feat. Aya Nakamura)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Aime-moi demain (feat. Gradur)",
+            "artistName": "The Shin Sekai",
+            "albumName": "Indéfini"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "All Stars",
+            "artistName": "Martin Solveig",
+            "albumName": "All Stars"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Maléfique",
+            "artistName": "Djadja & Dinaz",
+            "albumName": "Maléfique"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Pour walou",
+            "artistName": "Scridge",
+            "albumName": "Pour walou"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "MMM",
+            "artistName": "Naza",
+            "albumName": "MMM"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "De l'autre côté (feat. Nekfeu)",
+            "artistName": "Ninho",
+            "albumName": "Comme prévu"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Caramelo",
+            "artistName": "Ninho",
+            "albumName": "Comme prévu"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Redemption Song",
+            "artistName": "Bob Marley & The Wailers",
+            "albumName": "Uprising"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Redemption Song - From The voice of Holland",
+            "artistName": "Mitchell Brunings",
+            "albumName": "Redemption Song"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Alors alors",
+            "artistName": "Bigflo & Oli",
+            "albumName": "La vraie vie"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dommage",
+            "artistName": "Bigflo & Oli",
+            "albumName": "La vraie vie"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Freestyle, Pt. 1",
+            "artistName": "Miklo",
+            "albumName": "Carnal, vol. 1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tuba Life",
+            "artistName": "Niska",
+            "albumName": "Commando"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Snapchat",
+            "artistName": "Niska",
+            "albumName": "Commando"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Versus",
+            "artistName": "Niska",
+            "albumName": "Commando"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "N. J Respect R",
+            "artistName": "Damso",
+            "albumName": "Ipséité"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Salé",
+            "artistName": "Niska",
+            "albumName": "Commando"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mi Corazón",
+            "artistName": "DJ Sem",
+            "albumName": "Mi Corazón"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mwaka Moon",
+            "artistName": "Kalash",
+            "albumName": "Mwaka Moon"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tu rêves",
+            "artistName": "Deen Burbigo",
+            "albumName": "Grand cru"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Perfect",
+            "artistName": "Ed Sheeran",
+            "albumName": "÷"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Notes pour trop tard (feat. Ibeyi)",
+            "artistName": "Orelsan",
+            "albumName": "La fête est finie"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Attendez-moi",
+            "artistName": "Guizmo",
+            "albumName": "#GPG"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "San",
+            "artistName": "Orelsan",
+            "albumName": "La fête est finie"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "La fête est finie",
+            "artistName": "Orelsan",
+            "albumName": "La fête est finie"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Inachevés",
+            "artistName": "Casseurs Flowters",
+            "albumName": "Comment c'est loin"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ma fierté",
+            "artistName": "Dadju",
+            "albumName": "Ma fierté"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "J'ai dit non",
+            "artistName": "Dadju",
+            "albumName": "J'ai dit non"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Shotgun - LNY TNZ Remix",
+            "artistName": "Yellow Claw",
+            "albumName": "Shotgun (feat. Rochelle) [The Remixes]"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "rockstar",
+            "artistName": "Post Malone",
+            "albumName": "rockstar"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Heads Will Roll - A-Trak Remix",
+            "artistName": "Yeah Yeah Yeahs",
+            "albumName": "Heads Will Roll"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Suga Suga",
+            "artistName": "Baby Bash",
+            "albumName": "Tha Smokin' Nephew"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Noche",
+            "artistName": "Lacrim",
+            "albumName": "R.I.P.R.O 3"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Stargazing",
+            "artistName": "Kygo",
+            "albumName": "Stargazing - EP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Let You Down",
+            "artistName": "NF",
+            "albumName": "Perception"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Trouvez-la moi",
+            "artistName": "Dadju",
+            "albumName": "Gentleman 2.0"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Seconde chance",
+            "artistName": "Dadju",
+            "albumName": "Gentleman 2.0"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Collision",
+            "artistName": "Still Fresh",
+            "albumName": "Collision"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Par amour",
+            "artistName": "Dadju",
+            "albumName": "Gentleman 2.0"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tueurs",
+            "artistName": "Damso",
+            "albumName": "Tueurs"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Boyz N The Hood",
+            "artistName": "Kaaris",
+            "albumName": "Okou Gnakouri"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fuego",
+            "artistName": "DJ Kayz",
+            "albumName": "Fuego"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Friendzone",
+            "artistName": "Kalash",
+            "albumName": "Friendzone"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Demande-moi (feat. S.Pri Noir)",
+            "artistName": "Still Fresh",
+            "albumName": "Coeur noir"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Soulstorm",
+            "artistName": "Patrice",
+            "albumName": "Nile"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Karma",
+            "artistName": "Naâman",
+            "albumName": "Rays of Resistance"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Wonderwall",
+            "artistName": "Oasis",
+            "albumName": "(What's the Story) Morning Glory?"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Skyline",
+            "artistName": "Möwe",
+            "albumName": "Skyline"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "No Money",
+            "artistName": "Galantis",
+            "albumName": "No Money"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Live Is Life",
+            "artistName": "Opus",
+            "albumName": "Die Grössten Hits Aus 15 Jahren"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tout le monde danse",
+            "artistName": "Fally Ipupa",
+            "albumName": "Tokooos"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Drôle de question",
+            "artistName": "Roméo Elvis",
+            "albumName": "Morale 2"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "A coeur ouvert",
+            "artistName": "Sexion D'Assaut",
+            "albumName": "L'Apogée"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ridin'",
+            "artistName": "Booba",
+            "albumName": "Trône"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tant pis (feat. Dadju)",
+            "artistName": "Dry",
+            "albumName": "Tant pis (feat. Dadju)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Oublie-le",
+            "artistName": "Dadju",
+            "albumName": "Gentleman 2.0"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Désaccordé",
+            "artistName": "Vald",
+            "albumName": "Désaccordé"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Comme si de rien n'était",
+            "artistName": "Dadju",
+            "albumName": "Gentleman 2.0"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dreamer",
+            "artistName": "Axwell /\\ Ingrosso",
+            "albumName": "Dreamer"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Yeux disent",
+            "artistName": "Lomepal",
+            "albumName": "FLIP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "We Were Young - Original Mix",
+            "artistName": "DVBBS",
+            "albumName": "We Were Young"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Diarabi",
+            "artistName": "Kaaris",
+            "albumName": "Dozo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Caméléon",
+            "artistName": "Maître Gims",
+            "albumName": "Caméléon"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "God's Plan",
+            "artistName": "Drake",
+            "albumName": "Scary Hours"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sous contrôle",
+            "artistName": "Dadju",
+            "albumName": "Gentleman 2.0"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mafuzzy Style",
+            "artistName": "Dadju",
+            "albumName": "Mafuzzy Style"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "A Different Way (with Lauv)",
+            "artistName": "DJ Snake",
+            "albumName": "A Different Way (with Lauv)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Without You (feat. Usher) - Radio Edit",
+            "artistName": "David Guetta",
+            "albumName": "Without You (feat. Usher)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ma mélodie (feat. Maître Gims)",
+            "artistName": "Dry",
+            "albumName": "Tôt ou tard"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
+            "artistName": "Rudimental",
+            "albumName": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Trop tard",
+            "artistName": "Bigflo & Oli",
+            "albumName": "La vraie vie"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tu le C",
+            "artistName": "Lorenzo",
+            "albumName": "Rien à branler"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Indépendante (feat. Debbie Sparrow)",
+            "artistName": "Jok'air",
+            "albumName": "Big Daddy Jok"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "La même",
+            "artistName": "Maître Gims",
+            "albumName": "La même"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "A Kele Nta",
+            "artistName": "MHD",
+            "albumName": "MHD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Wanyinyin",
+            "artistName": "MHD",
+            "albumName": "MHD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "TieksVie",
+            "artistName": "Damso",
+            "albumName": "TieksVie"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fais-moi un Vie",
+            "artistName": "Damso",
+            "albumName": "Fais-moi un Vie"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mucho Dinero",
+            "artistName": "Damso",
+            "albumName": "Mucho Dinero"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "CQFD",
+            "artistName": "Damso",
+            "albumName": "CQFD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Like I Do",
+            "artistName": "David Guetta",
+            "albumName": "Like I Do"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Je n'ai rien promis",
+            "artistName": "Maître Gims",
+            "albumName": "Ceinture noire"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Amour X",
+            "artistName": "Niska",
+            "albumName": "Commando"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lolita",
+            "artistName": "Ashkidd",
+            "albumName": "Mila 809"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Django",
+            "artistName": "Dadju",
+            "albumName": "Gentleman 2.0"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Un Poco",
+            "artistName": "Ninho",
+            "albumName": "M.I.L.S 2.0"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "R.S",
+            "artistName": "Dehmo",
+            "albumName": "R.S"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Julien",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Perfect Duet (Ed Sheeran & Beyoncé)",
+            "artistName": "Ed Sheeran",
+            "albumName": "Perfect Duet (Ed Sheeran & Beyoncé)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Happier",
+            "artistName": "Ed Sheeran",
+            "albumName": "÷"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Be Right Here",
+            "artistName": "Kungs",
+            "albumName": "Be Right Here"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ramenez la coupe à la maison",
+            "artistName": "Vegedream",
+            "albumName": "Marchand de sable"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bella",
+            "artistName": "MHD",
+            "albumName": "Bella"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Intro Mansa",
+            "artistName": "MHD",
+            "albumName": "19"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Encore",
+            "artistName": "MHD",
+            "albumName": "19"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Rouler",
+            "artistName": "MHD",
+            "albumName": "19"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bravo",
+            "artistName": "MHD",
+            "albumName": "19"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Le temps",
+            "artistName": "MHD",
+            "albumName": "19"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Papalé",
+            "artistName": "MHD",
+            "albumName": "19"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fuego",
+            "artistName": "MHD",
+            "albumName": "19"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bébé",
+            "artistName": "MHD",
+            "albumName": "19"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Interlude trap 2",
+            "artistName": "MHD",
+            "albumName": "19"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Oh la la",
+            "artistName": "MHD",
+            "albumName": "19"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bella",
+            "artistName": "MHD",
+            "albumName": "19"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Afro Trap Pt. 10 (Moula Gang)",
+            "artistName": "MHD",
+            "albumName": "19"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Samedi dimanche",
+            "artistName": "MHD",
+            "albumName": "19"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Feeling",
+            "artistName": "MHD",
+            "albumName": "19"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Aleo",
+            "artistName": "MHD",
+            "albumName": "19"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Porsche Panamera",
+            "artistName": "MHD",
+            "albumName": "19"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Moussa",
+            "artistName": "MHD",
+            "albumName": "19"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Senseless Ting",
+            "artistName": "MHD",
+            "albumName": "19"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "XIX",
+            "artistName": "MHD",
+            "albumName": "19"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Introduction (Damso / Lithopédion)",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Festival de rêves",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Baltringue",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Julien",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Silence",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Feu de bois",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Même issue",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Smog",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "60 années",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Aux paradis",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dix leurres",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "NMI",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Perplexe",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tard la night",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Noir meilleur",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "William",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ipséité - Bonus Track",
+            "artistName": "Damso",
+            "albumName": "Lithopédion"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tu n'es pas moi",
+            "artistName": "Dadju",
+            "albumName": "Gentleman 2.0"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Christina",
+            "artistName": "Dadju",
+            "albumName": "Gentleman 2.0"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Nan nan nan",
+            "artistName": "Boostee",
+            "albumName": "Nan nan nan"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Happier",
+            "artistName": "Marshmello",
+            "albumName": "Happier"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "A chaque jour...",
+            "artistName": "Dosseh",
+            "albumName": "Vidalo$$a"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "La dot",
+            "artistName": "Aya Nakamura",
+            "albumName": "NAKAMURA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sucette (feat. Niska)",
+            "artistName": "Aya Nakamura",
+            "albumName": "NAKAMURA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Shallow",
+            "artistName": "Lady Gaga",
+            "albumName": "A Star Is Born Soundtrack"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "La fuite - Vegedream X Dj Leska / Edit MIx",
+            "artistName": "Vegedream",
+            "albumName": "Marchand de sable"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Scarface",
+            "artistName": "Booba",
+            "albumName": "Autopsie 0"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hors-norme",
+            "artistName": "Kpoint",
+            "albumName": "Trap'N'Roll"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Amnésie",
+            "artistName": "Damso",
+            "albumName": "Amnésie"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Autotune",
+            "artistName": "Damso",
+            "albumName": "Batterie faible"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Amen (Pre Fight Prayer) (with Lil Wayne)",
+            "artistName": "Mike WiLL Made-It",
+            "albumName": "Creed II: The Album"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Numb / Encore",
+            "artistName": "JAY-Z",
+            "albumName": "Collision Course"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Don't Leave Me Alone (feat. Anne-Marie) - R3HAB Remix",
+            "artistName": "David Guetta",
+            "albumName": "Don't Leave Me Alone (feat. Anne-Marie)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "One More Light",
+            "artistName": "Linkin Park",
+            "albumName": "One More Light"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Superhero",
+            "artistName": "Unknown Brain",
+            "albumName": "Superhero"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Oklm",
+      "lastModifiedDate": "2018-09-04",
+      "items": [
+        {
+          "track": {
+            "trackName": "La Moula",
+            "artistName": "MHD",
+            "albumName": "MHD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Afro Trap Pt. 2 (Kakala Bomaye)",
+            "artistName": "MHD",
+            "albumName": "MHD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Afro Trap Pt. 3 (Champions League)",
+            "artistName": "MHD",
+            "albumName": "MHD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Afro Trap Pt. 4 (Fais le mouv)",
+            "artistName": "MHD",
+            "albumName": "MHD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mort ce soir",
+            "artistName": "MHD",
+            "albumName": "MHD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "A Kele Nta",
+            "artistName": "MHD",
+            "albumName": "MHD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Afro Trap Pt. 5 (Ngatie Abedi)",
+            "artistName": "MHD",
+            "albumName": "MHD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Interlude Trap",
+            "artistName": "MHD",
+            "albumName": "MHD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Amina",
+            "artistName": "MHD",
+            "albumName": "MHD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tout seul",
+            "artistName": "MHD",
+            "albumName": "MHD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Afro Trap Pt. 6 (Molo Molo)",
+            "artistName": "MHD",
+            "albumName": "MHD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ma vie",
+            "artistName": "MHD",
+            "albumName": "MHD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Roger Milla",
+            "artistName": "MHD",
+            "albumName": "MHD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Maman j’ai mal",
+            "artistName": "MHD",
+            "albumName": "MHD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Wanyinyin",
+            "artistName": "MHD",
+            "albumName": "MHD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "No Games",
+            "artistName": "Serani",
+            "albumName": "No Games"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mi Amor",
+            "artistName": "Souf",
+            "albumName": "Mi Amor"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Elle te balade",
+            "artistName": "Jul",
+            "albumName": "My World (Edition collector)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "J'arrive pas - Acte IV",
+            "artistName": "Lartiste",
+            "albumName": "Maestro"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's \"TROLLS\")",
+            "artistName": "Justin Timberlake",
+            "albumName": "CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's \"TROLLS\")"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fast Car",
+            "artistName": "Jonas Blue",
+            "albumName": "Fast Car"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Free from Desire",
+            "artistName": "Aleix Sin",
+            "albumName": "Best of Euro Dance Music Hits 90's Songs. Lo Mejor De La Música Dance Dance Eurodance De Los 90"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ma beauté - Pilule violette",
+            "artistName": "Maître Gims",
+            "albumName": "Ma beauté"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "À la cool",
+            "artistName": "Djadja & Dinaz",
+            "albumName": "On s'promet"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Piña Colada",
+            "artistName": "DJ Hamida",
+            "albumName": "DJ Hamida Mix Party 2016"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Missile - Acte II",
+            "artistName": "Lartiste",
+            "albumName": "Maestro"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "DUELE EL CORAZON (feat. Wisin)",
+            "artistName": "Enrique Iglesias",
+            "albumName": "DUELE EL CORAZON (feat. Wisin)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Validé (feat. Ridsa & Axel Tony)",
+            "artistName": "DJ Kayz",
+            "albumName": "Paris Oran New York 2015"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Wonderwall",
+            "artistName": "Oasis",
+            "albumName": "(What's the Story) Morning Glory?"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ay Vamos",
+            "artistName": "J Balvin",
+            "albumName": "La Familia B Sides"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Life is a Highway",
+            "artistName": "Rascal Flatts",
+            "albumName": "Cars Original Soundtrack"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Aime la vie",
+            "artistName": "Taïro",
+            "albumName": "Ainsi soit-il"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Love Love Love",
+            "artistName": "Taïro",
+            "albumName": "Ainsi soit-il"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Feel Alone",
+            "artistName": "Boostee",
+            "albumName": "Feel Alone"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "On My Way",
+            "artistName": "Phil Collins",
+            "albumName": "Brother Bear Original Soundtrack"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Let Me Love You",
+            "artistName": "DJ Snake",
+            "albumName": "Encore"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Cold Water (feat. Justin Bieber & MØ)",
+            "artistName": "Major Lazer",
+            "albumName": "Cold Water (feat. Justin Bieber & MØ)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Je reviendrai",
+            "artistName": "The Shin Sekai",
+            "albumName": "The Shin Sekaï Volume 1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Maps",
+            "artistName": "Maroon 5",
+            "albumName": "Maps"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "You Found Me",
+            "artistName": "The Fray",
+            "albumName": "The Fray"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mea Culpa",
+            "artistName": "Souf",
+            "albumName": "Alchimie"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ho Hey",
+            "artistName": "The Lumineers",
+            "albumName": "The Lumineers"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Binta",
+            "artistName": "Alonzo",
+            "albumName": "Avenue de St Antoine"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Perfect Strangers",
+            "artistName": "Jonas Blue",
+            "albumName": "Perfect Strangers"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Don't Mind",
+            "artistName": "Kent Jones",
+            "albumName": "Don't Mind"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sunset Lover",
+            "artistName": "Petit Biscuit",
+            "albumName": "Sunset Lover"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Celle qu'il te faut (feat. Glory)",
+            "artistName": "Keen' V",
+            "albumName": "Là où le vent me mène"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Final Song",
+            "artistName": "MØ",
+            "albumName": "Final Song"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tchikita",
+            "artistName": "Jul",
+            "albumName": "Tchikita"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Physio - Température",
+            "artistName": "Fababy",
+            "albumName": "Physio"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mammoth - Original Mix",
+            "artistName": "Dimitri Vegas & Like Mike",
+            "albumName": "Mammoth (Coone Remix Instrumental)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Madness (feat. Lil Jon) - Radio Edit",
+            "artistName": "Dimitri Vegas & Like Mike",
+            "albumName": "Madness [feat. Lil Jon] [Remixes]"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Pursuit of Happiness - Steve Aoki Remix",
+            "artistName": "Kid Cudi",
+            "albumName": "Project X (Original Motion Picture Soundtrack)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Whole Heart",
+            "artistName": "Gryffin",
+            "albumName": "Whole Heart"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Ocean (feat. Shy Martin)",
+            "artistName": "Mike Perry",
+            "albumName": "The Ocean (feat. Shy Martin)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Elle avait son Djo",
+            "artistName": "Niska",
+            "albumName": "Elle avait son Djo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "C'est tout moi",
+            "artistName": "Black M",
+            "albumName": "Les yeux plus gros que le monde"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bambina",
+            "artistName": "PNL",
+            "albumName": "Dans la légende"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Attendez-moi",
+            "artistName": "Guizmo",
+            "albumName": "#GPG"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Poto",
+      "lastModifiedDate": "2018-09-04",
+      "items": [
+        {
+          "track": {
+            "trackName": "Poto",
+            "artistName": "Bash",
+            "albumName": "Summer Time, Vol. 2"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Squa",
+            "artistName": "Nekfeu",
+            "albumName": "Cyborg"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Marche",
+            "artistName": "Kool Shen",
+            "albumName": "Marche - Single"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Yo",
+      "lastModifiedDate": "2018-09-04",
+      "items": [
+        {
+          "track": {
+            "trackName": "Comme d'hab",
+            "artistName": "Bigflo & Oli",
+            "albumName": "Comme d'hab"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Pour être franc",
+            "artistName": "La Smala",
+            "albumName": "Un murmure dans le vent"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lean On (feat. MØ & DJ Snake)",
+            "artistName": "Major Lazer",
+            "albumName": "Lean On (feat. MØ & DJ Snake)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Five More Hours",
+            "artistName": "Deorro",
+            "albumName": "Five More Hours"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Don't Fuck With You",
+            "artistName": "Big Sean",
+            "albumName": "Dark Sky Paradise"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "On verra",
+            "artistName": "Nekfeu",
+            "albumName": "On verra"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Je suis un salaud",
+            "artistName": "Nessbeal",
+            "albumName": "Sélection naturelle"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "GDFR (feat. Sage the Gemini & Lookas)",
+            "artistName": "Flo Rida",
+            "albumName": "My House"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ayo",
+            "artistName": "Chris Brown",
+            "albumName": "Fan of A Fan The Album (Expanded Edition)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Time of Our Lives",
+            "artistName": "Pitbull",
+            "albumName": "Globalization"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    }
+  ]
+}
